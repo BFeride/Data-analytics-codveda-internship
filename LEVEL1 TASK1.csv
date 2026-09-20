@@ -1,4 +1,3 @@
-Python
 import pandas as pd
 
 # 1. Read dataset and clean missing/duplicate values
